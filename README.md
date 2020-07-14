@@ -2,6 +2,15 @@
 
 Shubham Goyal is a ***Data Scientist*** at MachineX Intelligence and Knolduc Inc. With this, he is an ***artificial Intelligence Researcher***, interested in doing research on different domain problems and a regular contributor to society through blogs and webinars in ***machine learning*** and ***artificial intelligence***. He had also written a few research papers on ***machine learning***. Moreover, a conference speaker.
 
+📌 Highlighted expertise in:
+- SQL
+- Data Analytics
+- Deep Learning
+- Machine Learning
+- Python Programming
+- Natural language processing
+
+📌 Highlighted current activities:
 - 🔭 I’m currently working on Machine learning and Artificial Intelligence
 - 🌱 I’m currently learning Natural language processing and computer vision. 
 - 👯 I’m looking to collaborate on building communities and developing innovitive solutions with AI.
