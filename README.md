@@ -1,6 +1,6 @@
 ### 👋 Hi, Shubham Goyal.
 
-Shubham Goyal is a ***Data Scientist*** at MachineX Intelligence and Knolduc Inc. With this, he is an ***artificial Intelligence Researcher***, interested in doing research on different domain problems and a regular contributor to society through blogs and webinars in ***machine learning*** and ***artificial intelligence***. He had also written a few research papers on ***machine learning***. Moreover, a conference speaker.
+Shubham Goyal is a ***Data Scientist*** at Tookitaki. With this, he is an ***artificial Intelligence Researcher***, interested in doing research on different domain problems and a regular contributor to society through blogs and webinars in ***machine learning*** and ***artificial intelligence***. He had also written a few research papers on ***machine learning***. Moreover, a conference speaker.
 
 📌 Highlighted expertise in:
 - SQL
