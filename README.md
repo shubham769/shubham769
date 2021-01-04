@@ -21,3 +21,5 @@ Shubham Goyal is a ***Data Scientist*** at Tookitaki. With this, he is an ***art
 - ⚡ Fun fact: I don't use the QWERTY keyboard
 
 • [Twitter](https://twitter.com/Shubham99142929) • [LinkedIn](https://www.linkedin.com/in/shubham-goyal-0946b7127)
+
+[My github stats](https://github-readme-stats.vercel.app/api?username=shubham769&show_icons=true&theme=dracula&count_private=true)
